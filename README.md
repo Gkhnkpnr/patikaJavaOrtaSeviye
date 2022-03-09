@@ -1,0 +1,2 @@
+# patikaJavaOrtaSeviye
+Patika.dev odevleri
